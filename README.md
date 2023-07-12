@@ -123,8 +123,4 @@ void main() {
   
     // Do stuff with adi.
 }
-```
-
-## Support
-
-Donations are welcome with GitHub Sponsors.
+``
